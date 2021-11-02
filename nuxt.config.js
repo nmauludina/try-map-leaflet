@@ -9,7 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - try-map-leaflet',
+    titleTemplate: 'try-map-leaflet',
     title: 'try-map-leaflet',
     htmlAttrs: {
       lang: 'en'
