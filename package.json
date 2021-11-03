@@ -6,7 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt build"
   },
   "dependencies": {
     "@nuxtjs/firebase": "^7.6.1",
