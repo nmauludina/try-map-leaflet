@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "nuxt generate",
     "start": "nuxt start",
-    "generate": "nuxt build"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/firebase": "^7.6.1",
